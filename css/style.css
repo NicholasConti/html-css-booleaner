@@ -45,4 +45,28 @@ h1{
     color: #2daee6;
 }
 
+ul{
+    padding-left: 15px;
+    margin-top: 40px;
+}
 
+.intestazione{
+    background-color: #20a9e5;
+    color: white;
+}
+
+table{
+    width: 100%;
+}
+
+.col1e2{
+    width: 25%;
+}
+
+.col3{
+    width: 50%;
+}
+
+.rowlightblue{
+    background-color: #b1e5f2;
+}
