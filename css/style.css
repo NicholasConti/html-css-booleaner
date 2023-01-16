@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+
+#logo{
+    background-image:url(../img/pattern.png) ;
+    background-color: #4ea0ff;
+    height: 190px;
+}
+
+img{
+    width: 400px;
+    padding-top: 80px;
+    padding-left: 15px;
+}
+
+h1{
+    font-size: 70px;
+    font-weight: bolder;
+    margin: 0px;
+}
+
+.dettaglio{
+    color: grey;
+    
+}
+
